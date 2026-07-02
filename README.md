@@ -361,10 +361,10 @@ Given more development time, the following enhancements would be added:
 ![Signup](./screenshots/signup.png)
 
 ### Customer Dashboard
-![Customer Dashboard](./screenshots/customer-dashboard.png)
+![Customer Dashboard](./screenshots/customerdashboard.png)
 
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/admindashboard.png)
 ```
 screenshots/
 ├── login.png
